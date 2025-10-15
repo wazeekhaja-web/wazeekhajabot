@@ -48,7 +48,7 @@ MESSAGES = {
     "START_PHOTO": "https://nearby-blush-byrfsswkn6.edgeone.app/luffy-gear-5-uses-power-desktop-wallpaper-preview.jpg",
     "FSUB_PHOTO": "https://nearby-blush-byrfsswkn6.edgeone.app/luffy-gear-5-uses-power-desktop-wallpaper-preview.jpg",
     "SHORT_PIC": "https://nearby-blush-byrfsswkn6.edgeone.app/luffy-gear-5-uses-power-desktop-wallpaper-preview.jpg",
-    "SHORT": "https://telegra.ph/file/8aaf4df8c138c6685dcee-05d3b183d4978ec347.jpg"
+    "SHORT": "Checking Subscription..."
 }
 
 def LOGGER(name: str, client_name: str) -> logging.Logger:
